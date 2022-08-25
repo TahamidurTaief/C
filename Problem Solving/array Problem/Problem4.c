@@ -1,4 +1,4 @@
-Ques: 4. Write a program in C to copy the elements of one array into another array.
+//Ques: 4. Write a program in C to copy the elements of one array into another array.
 
 Solution:
 
