@@ -1,9 +1,10 @@
-QUES 5: Write a program in C to count a total number of duplicate elements in an array.
+//QUES 5: Write a program in C to count a total number of duplicate elements in an array.
 
 
 SOLUTION:
 
 // 5. Write a program in C to count a total number of duplicate elements in an array.
+
 #include<stdio.h>
 #include<conio.h>
 
