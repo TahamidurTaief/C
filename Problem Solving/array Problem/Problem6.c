@@ -1,4 +1,4 @@
-QUES 6: Write a program in C to print all unique elements in an array.
+//QUES 6: Write a program in C to print all unique elements in an array.
 
 SOLUTION:
 
